@@ -60,9 +60,7 @@ bld/
 
 #Ultralight Includes
 !data/ultralight.basemat
-!include/AppCore
-!include/JavaScriptCore
-!include/Ultralight
+!include/sciter
 
 #UltraLight Libraries
 !bin/AppCore.dll
